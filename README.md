@@ -13,12 +13,14 @@ PT_BR: Programa para uso em setores financeiros, nele podemos verificar financia
 IDE used;
 
 ## 🎁 Agradecimentos especiais
-
+EN
 * Alura and his teachers for the sensational teaching and knowledge base;
 * Lucas Fugisawa for all the mentoring;
 * Absolute Zero for all the patience in helping with the first steps in the Python language;
 * Guanabara and Video Course for having set up the entire base of logic and object orientation;
-<p></p>
+
+<p>BR<br>
+
 * Alura e seus professores pela sensacional base de ensino e conhecimento;
 * Lucas Fugisawa por toda a mentoria;
 * Absolute Zero por toda a paciencia na ajuda dos primeiros passos na linguagem Python;
